@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,N as n}from"./chunks/framework.df4fa647.js";const u=JSON.parse('{"title":"another page","description":"","frontmatter":{},"headers":[],"relativePath":"guide/Page2.md"}'),l={name:"guide/Page2.md"},t=n("",6),p=[t];function o(r,i,c,h,y,d){return a(),e("div",null,p)}const b=s(l,[["render",o]]);export{u as __pageData,b as default};
